@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ekor231.aternos.me",
+    "ip": "Ekor231.aternos.me:19735",
     "port": 19735,
     "version": "",
     "try-creative": false
